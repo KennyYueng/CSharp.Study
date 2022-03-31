@@ -1,0 +1,13 @@
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.exe
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.deps.json
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.runtimeconfig.json
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.runtimeconfig.dev.json
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.dll
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\bin\Debug\netcoreapp3.1\CSharp.Study.4.pdb
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.csprojAssemblyReference.cache
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.AssemblyInfoInputs.cache
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.AssemblyInfo.cs
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.csproj.CoreCompileInputs.cache
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.dll
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.pdb
+D:\Code\CSharpCode\KennyLab\CSharp.Study\CSharp.Study.4\obj\Debug\netcoreapp3.1\CSharp.Study.4.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7r/70WXGiHhDWBsU2eAYGM6HlR+sUo/OnxeKM1W2vca6WsI6BntWLNLVSwtb6LMoX7GvRX86nyw+epqLHi/Pg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CSharpCode\\KennyLab\\CSharp.Study\\CSharp.Study.4\\CSharp.Study.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
